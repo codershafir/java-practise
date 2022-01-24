@@ -1,0 +1,12 @@
+# Default ignored files
+/target/
+/shelf/
+bin/
+out/
+.class
+
+#Intellij IDEA
+.idea
+*.iws
+*.iml
+*.ipr
